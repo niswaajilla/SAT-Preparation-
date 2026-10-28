@@ -1,0 +1,6 @@
+{
+  "name": "SAT Teacher Lab",
+  "description": "Platform latihan interaktif Digital SAT dan toolkit persiapan mengajar untuk pendidik profesional.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
